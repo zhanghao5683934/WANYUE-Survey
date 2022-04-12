@@ -17,10 +17,7 @@
 万岳教育问卷调查系统，可以应用与各种问卷调查、问卷活动、活动通知等，展示参与人数、活动时间，问卷包含单选、多选多个题型
 
 #### 演示信息
-demo：
-
-
-后台链接：http://dati.sdwanyue.com/admin    账号：demo  密码：demo
+敬请期待......
 
 #### 演示图片
 ![输入图片说明](%E6%BC%94%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/QQ%E5%9B%BE%E7%89%8720220412161114.jpg)
@@ -64,10 +61,9 @@ uni-app官方推荐的轻量级代码IDE工具, Hbuilder[下载地址](http://ww
 │	├─index				// 首页
 │	├─my				// 个人中心
 │	├─login				// 登录页面
-│	├─notice			// 工作提示
-│	├─ranking			// 排行榜
-│	├─question			// 在线答题
-│	├─answer_history		// 答题记录
+│	├─notice			// 最新活动
+│	├─scanning			// 要闻速览
+│	├─questionnaire			// 问卷调查
 │	├─forget			// 修改密码
 │	└─my_update			// 展示用户信息
 │
